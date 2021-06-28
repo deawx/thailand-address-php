@@ -6,7 +6,7 @@
 ## การติดตั้ง
 
 ```sh
-composer require farzai/thailand-provinces-php
+composer require farzai/thailand-address-php
 ```
 
 ## เริ่มต้นการใช้งาน
