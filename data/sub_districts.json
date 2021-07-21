@@ -1596,6 +1596,27 @@
     "district_id": "45"
   },
   {
+    "id": "104502",
+    "zip_code": "10310",
+    "name_th": "คลองเจ้าคุณสิงห์",
+    "name_en": "Khlong Chao Khun Sing",
+    "district_id": "45"
+  },
+  {
+    "id": "104503",
+    "zip_code": "10310",
+    "name_th": "พลับพลา",
+    "name_en": "Phlapphla",
+    "district_id": "45"
+  },
+  {
+    "id": "104504",
+    "zip_code": "10310",
+    "name_th": "สะพานสอง",
+    "name_en": "Saphan Song",
+    "district_id": "45"
+  },
+  {
     "id": "104601",
     "zip_code": "10510",
     "name_th": "สามวาตะวันตก",
